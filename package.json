@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@discordjs/docgen": "^0.12.1",
+    "@napi-rs/canvas": "^0.1.26",
+    "@skyra/gifenc": "^1.0.0",
+    "@types/node": "^18.7.13",
+    "canvacord": "^5.4.6",
+    "chalk": "^5.0.1",
+    "discord.js": "^14.3.0",
+    "nodemon": "^2.0.19",
+    "quickfirebase.ts": "^3.0.0",
+    "ts-node": "^10.9.1"
+  },
+  "name": "levelsystem",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "nodemon index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
